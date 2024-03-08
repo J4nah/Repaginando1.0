@@ -1,0 +1,4 @@
+user=root
+password=29De082003$$
+dburl=jdbc:mysql://localhost:3306/upx
+useSSL=false

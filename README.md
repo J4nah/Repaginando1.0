@@ -1,4 +1,4 @@
-![image](https://github.com/J4nah/Repaginando1.0/assets/120433412/94c3c1eb-e192-487e-ad60-ef10426e2c86)![image](https://github.com/J4nah/Repaginando1.0/assets/120433412/c6d2f5ac-def5-46c4-8996-b833c7b7e51a)<body>
+<body>
 <h1>Repaginando</h1>
 
 <h2>Projeto de UPX 2 semestre Facens</h2>
@@ -9,7 +9,7 @@
 o clima e garantir que as pessoas possam desfrutar de paz e prosperidade em todos
 os lugares do mundo, através de um apelo global.</p>
 <img src="https://media.discordapp.net/attachments/1080350795297472524/1217991408015900782/image.png?ex=66342e64&is=6621b964&hm=804016c7a3c8d7ddfb556bfae7f5daed8353af91ad95a167bdceb0b314b41819&=&format=webp&quality=lossless"
-        alt="" width="500px">
+        alt="ODS" width="500px">
 <p style="text-align: center;">Imagem 1: As 17 ODSs. Disponivel em: https://brasil.un.org/pt-br/sdgs</p>
 <p style="text-align: justify;">O presente projeto tem como principais premissas, a de se enquadrar dentre
 os objetivos do desenvolvimento sustentável da ONU e a de promover um impacto
